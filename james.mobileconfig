@@ -24,33 +24,29 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.3CF24B77-9C18-4B10-B627-79938DACD387</string>
+			<string>com.apple.wifi.managed.3D27D59C-1F14-47AB-AF35-91EAE32C64EF</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>3CF24B77-9C18-4B10-B627-79938DACD387</string>
+			<string>3D27D59C-1F14-47AB-AF35-91EAE32C64EF</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProxyServer</key>
-			<string>192.168.1.20</string>
-			<key>ProxyServerPort</key>
-			<integer>7890</integer>
 			<key>ProxyType</key>
-			<string>Manual</string>
+			<string>None</string>
 			<key>SSID_STR</key>
 			<string>lyy</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>james 代理文件</string>
+	<string>james</string>
 	<key>PayloadIdentifier</key>
-	<string>jamesdeMac-mini.5960F2E4-08EA-4E73-99BD-F640A526F9C7</string>
+	<string>jamesdeMac-mini.01AF9DF8-1D4D-472F-895D-AC6B97B5FF35</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>A0968F54-95A3-4BF7-A04F-686D125DFE1E</string>
+	<string>AA9C688E-8E21-4CF7-A88E-DB920ADD6D8E</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
